@@ -53,6 +53,7 @@ Human Rights are universal moral principles and legal guarantees that protect in
 - [World Justice Project Rule of Law Index](https://worldjusticeproject.org/our-work/research-and-data/wjp-rule-law-index-2023) – Measures adherence to rule of law across nations.
 - [UCDP Conflict Data Program](https://ucdp.uu.se/) – Data on global organized violence.
 - [Minorities at Risk Project](https://www.mar.umd.edu/) – Tracks ethnic group rights and risks worldwide.
+- [Crime Brasil](https://crimebrasil.com.br) – Open-data platform for Brazilian crime statistics including feminicide, police lethality with racial breakdown, and violence against LGBTQIA+ communities. ~3M geocoded incidents, free REST API, CC BY 4.0.
 
 ## Research Tools
 
